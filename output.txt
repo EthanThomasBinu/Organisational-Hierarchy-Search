@@ -1,0 +1,12 @@
+ORGANISATIONAL HIERARCHY
+------------------------
+
+Level-order traversal:
+CEO HR Finance IT Development Testing Frontend Backend
+
+SEARCH COMPARISON RESULTS
+--------------------------
+Department      Linear Search   Binary Search
+Development     3               3
+HR              6               2
+Testing         8               4
