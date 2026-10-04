@@ -1,0 +1,8 @@
+SEARCH COMPARISON RESULTS
+--------------------------
+Department      Linear Search   Binary Search
+Development     3               3
+HR              6               2
+Testing         8               4
+
+Total comparisons: Linear = 17, Binary = 9
